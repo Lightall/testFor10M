@@ -1,8 +1,4 @@
-# VIVO: Connect, Share, Discover
-
-[![Build](https://github.com/vivo-project/VIVO/workflows/Build/badge.svg)](https://github.com/vivo-project/VIVO/actions?query=workflow%3ABuild) [![Deploy](https://github.com/vivo-project/VIVO/workflows/Deploy/badge.svg)](https://github.com/vivo-project/VIVO/actions?query=workflow%3ADeploy) [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.2639714.svg)](https://doi.org/10.5281/zenodo.2639713)
-
-VIVO is an open source semantic web tool for research discovery -- finding people and the research they do.
+# SHEIN: Connect, Share, Discover
 
 VIVO supports editing, searching, browsing and visualizing research activity in order to discover people, programs, 
 facilities, funding, scholarly works and events. VIVO's search returns results faceted by type for rapid retrieval of 
@@ -10,7 +6,7 @@ desired information across disciplines.
 
 ## Resources
 
-### VIVO Project web site
+### SHEIN Project web site
 http://vivoweb.org/
 
 ### VIVO Project Wiki
